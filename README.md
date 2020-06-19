@@ -17,7 +17,7 @@ Notes:
 2. Try various algorithms and tricks to get better results. Hopefully at least Level 1 or 2 is achievable by end of June 2020.
 
 Technical ToDo: 
-1. Current environment returns only sparse rewards (+100 reach goal, -100 death, 0 otherwise). Try creating a MineRL compatible gym environment which returns more state information using the MineRLNavigation environments (e.g. Compass angle, XYZ Coords, reward based on distance from goal, etc).
+1. Current environment returns only sparse rewards (+100 reach goal, -100 death, 0 otherwise). Try creating a MineRL compatible gym environment which returns more state information using the MineRLNavigation environments (e.g. Camera angle, XYZ Coords, reward based on distance from goal, etc).
 
 Training Examples:
 
