@@ -1,5 +1,6 @@
 # minerl_parkour
-Deep Reinforcement Learning Agent that will hopefully one day learn to play a parkour obstacle course map.
+Author: Sean Tey
+Research Question: Is it possible to train a Minecraft Reinforcement Learning Agent that can play a complicated parkour obstacle course map.
 
 Rough roadmap of ideal goal:
 * Level 1: Straight Line Cliffwalking Lava Map
@@ -10,11 +11,16 @@ Rough roadmap of ideal goal:
 * Level 6: Parkour map with just running and jumping
 * Level 7: Parkour map with minigames
 
-Notes: Try getting similar or better results to OpenAI Baseline DQN and PPO models with personal implementations, then try various models and tricks to get better results. Hopefully at least Level 1 or 2 is achievable soon.
+Notes: 
+1. Try to get similar or better results to OpenAI Baseline DQN and PPO models with personal implementations of RL algorithms for practice.
+2. Try various algorithms and tricks to get better results. Hopefully at least Level 1 or 2 is achievable by end of June 2020.
 
-Technical ToDos: Create MineRL compatible gym environment which returns more state information.
+Technical ToDo: 
+1. Create a MineRL compatible gym environment which returns more state information using the MineRLNavigation environments.
 
 Training Examples:
 1. Random actions:
+![Level1_Random](./assets/level1_random.GIF)
 
 2. Baseline DQN After 1500+ episodes:
+![Level1_OI_DQN](./assets/level1_oi_dqn_base_1500eps.GIF)
