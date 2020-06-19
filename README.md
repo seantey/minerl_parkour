@@ -1,5 +1,6 @@
 # Minecraft Obstacle Map Agent
 Author: Sean Tey
+
 Research Question: Is it possible to train a Minecraft Reinforcement Learning Agent that can play a complicated parkour obstacle course map.
 
 Rough roadmap of ideal goal:
