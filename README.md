@@ -22,5 +22,5 @@ Training Examples:
 1. Random actions:
 ![Level1_Random](./assets/level1_random.GIF)
 
-2. Baseline DQN After 1500+ episodes:
+2. Baseline DQN After 1500+ episodes: (Not yet able to reach goal)
 ![Level1_OI_DQN](./assets/level1_oi_dqn_base_1500eps.GIF)
