@@ -10,7 +10,7 @@ Rough roadmap of ideal goal:
 * Level 4: Hard difficulty Jump + Cliffwalking Lava Map
 * Level 5: Jump + Obstacles + Cliffwalking Lava Map
 * Level 6: Parkour map with just running and jumping
-* Level 7: Parkour map with minigames
+* Level X: Parkour map with minigames
 
 Notes: 
 1. Try to get similar or better results to OpenAI Baseline DQN and PPO models with personal implementations of RL algorithms for practice.
