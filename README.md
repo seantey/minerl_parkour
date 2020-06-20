@@ -19,6 +19,10 @@ Notes:
 Technical ToDo: 
 1. Current environment returns only sparse rewards (+100 reach goal, -100 death, 0 otherwise). Try creating a MineRL compatible gym environment which returns more state information using the MineRLNavigation environments (e.g. Camera angle, XYZ Coords, reward based on distance from goal, etc).
 
+Environments:
+1. Open AI Gym, based on Microsoft's Malmo by @tambetm https://github.com/tambetm/gym-minecraft
+2. MineRL Competition Environment https://github.com/minerllabs/minerl
+
 Training Examples:
 
 1. Random actions:
