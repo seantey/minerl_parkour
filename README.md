@@ -17,7 +17,7 @@ Notes:
 2. Try various algorithms and tricks to get better results. Hopefully at least Level 1 or 2 is achievable by end of June 2020.
 
 Technical ToDo: 
-1. A possible way to improve learning speed is use a better envionment, the current environment returns only sparse rewards (+100 reach goal, -100 death, 0 otherwise). Try creating a MineRL compatible gym environment which returns more state information using the MineRLNavigation environments (e.g. Camera angle, XYZ Coords, reward based on distance from goal, etc).
+1. One way to improve learning speed for now is to use a better envionment, the current environment returns only sparse rewards (+100 reach goal, -100 death, 0 otherwise). Try creating a MineRL compatible gym environment which returns more state information using the MineRLNavigation environments (e.g. Camera angle, XYZ Coords, reward based on distance from goal, etc).
 
 Environments:
 1. Open AI Gym, based on Microsoft's Malmo by @tambetm https://github.com/tambetm/gym-minecraft
