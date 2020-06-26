@@ -27,17 +27,17 @@ Examples:
 
 1. Random actions:
 
-![Level1_Random](./assets/level1_random.GIF)
+![Level1_Random](./images/level1_random.GIF)
 
 2. Level 1 Win
 
-![Level1_WIN_PPO](./assets/level1_win.GIF)
+![Level1_WIN_PPO](./images/level1_win.GIF)
 
 3. Level 1.5 Win
 
-![Level1.5_WIN_PPO](./assets/level1.5_win.GIF)
+![Level1.5_WIN_PPO](./images/level1.5_win.GIF)
 
 4. Level 2 Fail (PPO after 300k time steps)
 
 
-![Level2_FAIL_PPO](./assets/level2_fail.GIF)
+![Level2_FAIL_PPO](./images/level2_fail.GIF)
