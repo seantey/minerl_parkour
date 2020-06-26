@@ -4,8 +4,8 @@
 #### Research Question: Is it possible to train a Minecraft Reinforcement Learning Agent that can play a complicated parkour obstacle course map.
 
 #### Rough roadmap of ideal goal:
-* Level 1: Straight Line Cliffwalking Lava Map &#x2611
-* Level 2: Easy Single Jump Cliffwalking Lava Map &#x2611
+* Level 1: Straight Line Cliffwalking Lava Map :heavy_check_mark:
+* Level 2: Easy Single Jump Cliffwalking Lava Map :heavy_check_mark:
 * Level 3: Medium difficulty Running Jump + Cliffwalking Lava Map
 * Level 4: Hard difficulty Jump + Cliffwalking Lava Map
 * Level 5: Jump + Obstacles + Cliffwalking Lava Map
@@ -44,5 +44,7 @@ The environment is made from a combination of Minerl OpenAI Gym environments and
 
 4. Level 2 Fail (PPO after 300k time steps)
 
-
 ![Level2_FAIL_PPO](./images/level2_fail.GIF)
+
+#### Video presentation for Level 1 and Level 2 attempt in June 2020:
+[![Video presentation](https://img.youtube.com/vi/r-lui0mR8n0/0.jpg)](http://www.youtube.com/watch?v=r-lui0mR8n0)
