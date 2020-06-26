@@ -5,7 +5,7 @@
 
 #### Rough roadmap of ideal goal:
 * Level 1: Straight Line Cliffwalking Lava Map :heavy_check_mark:
-* Level 2: Easy Single Jump Cliffwalking Lava Map :heavy_check_mark:
+* Level 2: Easy Single Jump Cliffwalking Lava Map
 * Level 3: Medium difficulty Running Jump + Cliffwalking Lava Map
 * Level 4: Hard difficulty Jump + Cliffwalking Lava Map
 * Level 5: Jump + Obstacles + Cliffwalking Lava Map
