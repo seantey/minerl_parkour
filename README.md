@@ -46,5 +46,5 @@ The environment is made from a combination of Minerl OpenAI Gym environments and
 
 ![Level2_FAIL_PPO](./images/level2_fail.GIF)
 
-#### Video presentation for Level 1 and Level 2 attempt in June 2020:
+#### Video for quick overview of Level 1 and Level 2 attempt in June 2020:
 [![Video presentation](https://img.youtube.com/vi/r-lui0mR8n0/0.jpg)](http://www.youtube.com/watch?v=r-lui0mR8n0)
