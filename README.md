@@ -23,12 +23,21 @@ Environments:
 1. Open AI Gym, based on Microsoft's Malmo by @tambetm https://github.com/tambetm/gym-minecraft
 2. MineRL Competition Environment https://github.com/minerllabs/minerl
 
-Training Examples:
+Examples:
 
 1. Random actions:
 
 ![Level1_Random](./assets/level1_random.GIF)
 
-2. OpenAI Baseline DQN After 1500+ episodes: (Not yet able to reach goal)
+2. Level 1 Win
 
-![Level1_OI_DQN](./assets/level1_oi_dqn_base_1500eps.GIF)
+![Level1_WIN_PPO](./assets/level1_win.GIF)
+
+3. Level 1.5 Win
+
+![Level1.5_WIN_PPO](./assets/level1.5_win.GIF)
+
+4. Level 2 Fail (PPO after 300k time steps)
+
+
+![Level2_FAIL_PPO](./assets/level2_fail.GIF)
